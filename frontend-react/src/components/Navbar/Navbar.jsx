@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { HiMenuAlt4, HiX } from 'react-icons/hi'
 import { motion } from 'framer-motion'
+import { AppWrap } from '../../wrapper'
 import './Navbar.scss'
 import { images } from '../../constants'
 
@@ -30,7 +31,7 @@ const Navbar = () => {
                         >
                             <HiX onClick={() => setToggle(false)}/>
                             <ul>
-                            {['home', 'about', 'work', 'skills', 'contact'].map((item) => (
+                            {['home', 'about', 'work', 'skills', 'testimonials','contact'].map((item) => (
                                 <li key={item}>
                                     <a href={`#${item}`}onClick={() => setToggle(false)}>{item} </a>
                                 </li>
