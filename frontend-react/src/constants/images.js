@@ -3,6 +3,7 @@ import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
+import discord from '../assets/discord.png';
 import figma from '../assets/figma.png';
 import flutter from '../assets/flutter.png';
 import git from '../assets/git.png';
@@ -41,6 +42,7 @@ export default {
   api,
   cpp,
   css,
+  discord,
   figma,
   flutter,
   git,
