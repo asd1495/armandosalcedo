@@ -44,8 +44,8 @@ const Footer = () => {
             <a href="mailto:armando.salcedo95@gmail.com" className="p-text">Mail me: armando.salcedo95@gmail.com</a>
           </div>
           <div className="app__footer-card">
-            <img src={images.mobile} alt="phone" />
-            <a href="tel:+1 (123) 456-7890" className="p-text">+1 (123) 456-7890</a>
+            <img src={images.discord} alt="phone" />
+            <a href="" className="p-text">Find me @ Discord!</a>
           </div>
         </div>
         {!isFormSubmitted ? (
@@ -78,4 +78,4 @@ const Footer = () => {
     );
   };
 
-export default AppWrap(Footer, 'footer')
+export default AppWrap(Footer, 'contact')

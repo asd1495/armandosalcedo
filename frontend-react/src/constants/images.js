@@ -1,8 +1,10 @@
 import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
+import coding from '../assets/coding.png';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
+import cv from '../assets/cv.png'
 import discord from '../assets/discord.png';
 import figma from '../assets/figma.png';
 import flutter from '../assets/flutter.png';
@@ -10,12 +12,14 @@ import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
 import javascript from '../assets/javascript.png';
+import montage from '../assets/montage.png';
 import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
 import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
+import strategy from '../assets/strategy.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 
@@ -39,6 +43,7 @@ import spotify from '../assets/spotify.png';
 export default {
   email,
   mobile,
+  montage,
   api,
   cpp,
   css,
@@ -55,6 +60,7 @@ export default {
   react,
   redux,
   sass,
+  strategy,
   typescript,
   vue,
   about01,
@@ -71,4 +77,6 @@ export default {
   nb,
   skype,
   spotify,
+  coding,
+  cv,
 };
