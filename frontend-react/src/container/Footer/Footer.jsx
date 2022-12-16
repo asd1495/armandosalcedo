@@ -45,7 +45,7 @@ const Footer = () => {
           </div>
           <div className="app__footer-card">
             <img src={images.discord} alt="phone" />
-            <a href="" className="p-text">Find me @ Discord!</a>
+            <a href="https://discord.com/users/ASD95#4137" className="p-text" target='_blank'>Find me @ Discord!</a>
           </div>
         </div>
         {/* {!isFormSubmitted   //(
