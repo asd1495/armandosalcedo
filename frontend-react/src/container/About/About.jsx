@@ -17,12 +17,13 @@ const About = () => {
     return (
         <>
             <h2 className='head-text'>
-                I know that
-                <span> Good Development </span>
+                Wanna know a bit
+                <span> about me? </span>
                 <br />
                 means
-                <span> Good Business</span>
+                <span>Good Business</span>
             </h2>
+            
             <div className='app__profiles'>
                 { abouts.map((about, index) => (
                 <motion.div
