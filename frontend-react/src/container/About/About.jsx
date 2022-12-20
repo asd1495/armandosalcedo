@@ -20,8 +20,8 @@ const About = () => {
                 Wanna know a bit
                 <span> about me? </span>
                 <br />
-                means
-                <span>Good Business</span>
+                
+                <span></span>
             </h2>
             
             <div className='app__profiles'>
