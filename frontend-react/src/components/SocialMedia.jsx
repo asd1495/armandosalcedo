@@ -1,6 +1,6 @@
 import React from 'react'
 import { BsGithub } from 'react-icons/bs'
-import { FaCodepen } from 'react-icons/fa'
+import { BsLinkedin } from 'react-icons/bs'
 
 const SocialMedia = () => {
   return (
@@ -10,9 +10,9 @@ const SocialMedia = () => {
             <BsGithub /> 
           </div>
         </a>
-        <a href="https://codepen.io/asd1495" target='_blank' rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/armando-salcedo/" target='_blank' rel="noopener noreferrer">
           <div>
-            <FaCodepen />
+            <BsLinkedin />
           </div>
         </a>
     </div>
