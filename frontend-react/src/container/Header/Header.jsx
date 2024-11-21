@@ -36,7 +36,6 @@ const Header = () => {
             <p className='p-text'>Web Development</p>
             <p className='p-text'>Audiovisual Production</p>
             <p className='p-text'>Digital Strategies</p>
-            <a href="https://drive.google.com/file/d/1elIjbesLvSIrJohzUdFiQ-9cJXtGYTyr/view?usp=sharing" target='_blank' rel="noopener noreferrer">Download my CV!</a>
           </div>
         </div>
       </motion.div>
