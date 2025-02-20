@@ -1,3 +1,4 @@
+import { transform } from "next/dist/build/swc";
 import type { Config } from "tailwindcss";
 
 const config: Config = {
@@ -20,10 +21,27 @@ const config: Config = {
         md: "2rem",
       },
     },
+    
     extend: {
       fontFamily: {
         sans: 'var(--font-sans)',
         serif: 'var(--font-serif)',
+      },
+      animation: {
+        'ping-large': 'ping-large 1s ease-in-out infinite',
+        'slide': 'slide 15s linear infinite'
+      },
+      keyframes: {
+        'ping-large': {
+          '75%, 100%': {
+            transform: 'scale(3)',
+            opacity: '0',
+          }
+        },
+        slide: {
+          '0%': { transform: 'translateX(0)' },
+          '100%': { transform: 'translateX(-50%)' }
+        }
       }
     },
   },
