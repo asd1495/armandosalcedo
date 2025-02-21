@@ -43,7 +43,7 @@ const nextConfig = {
 
     return config;
   },
-  basePath: "/armandosalcedo",
+  basePath: "/armandosalcedo.github.io",
   output: "export",
   reactStrictMode: true,
 };
