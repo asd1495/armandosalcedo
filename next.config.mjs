@@ -43,7 +43,9 @@ const nextConfig = {
 
     return config;
   },
-  output: "export"
+  basePath: "/armandosalcedo",
+  output: "export",
+  reactStrictMode: true,
 };
 
 export default nextConfig;
