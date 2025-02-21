@@ -48,8 +48,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "armandosalcedo",
-  assetPrefix: "armandosalcedo",
+  basePath: "/armandosalcedo",
+  assetPrefix: "/armandosalcedo",
 };
 
 export default nextConfig;
