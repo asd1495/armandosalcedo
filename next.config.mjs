@@ -43,13 +43,7 @@ const nextConfig = {
 
     return config;
   },
-
-  output: "export",
-  images: {
-    unoptimized: true,
-  },
-  basePath: "/armandosalcedo",
-  assetPrefix: "/armandosalcedo",
+  output: "export"
 };
 
 export default nextConfig;
