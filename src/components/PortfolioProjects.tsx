@@ -6,11 +6,11 @@ export const portfolioProjects = [
     {
       company: "InventorEasy",
       year: "2025",
-      title: "Java based inventory system",
+      title: "Java based inventory system (in progress)",
       results: [
         { title: "Open Source" },
-        { title: "Lorem Ipsum" },
-        { title: "Lorem Ipsum" },
+        { title: "Real-time inventory monitoring" },
+        { title: "Intuitive UI" },
       ],
       link: "",
       image: darkSaasLandingPage,
@@ -18,11 +18,11 @@ export const portfolioProjects = [
     {
       company: "The amiiboDB",
       year: "2025",
-      title: "Everyone is here!",
+      title: "Everyone is here! (in progress)",
       results: [
-        { title: "Lorem Ipsum" },
-        { title: "Lorem Ipsum" },
-        { title: "Lorem Ipsum" },
+        { title: "Comprehensive amiibo collection" },
+        { title: "Accurate game compatibility" },
+        { title: "Community-driven insights" },
       ],
       link: "",
       image: lightSaasLandingPage,
@@ -30,11 +30,11 @@ export const portfolioProjects = [
     {
       company: "Backlog App",
       year: "2025",
-      title: "Keep track of your backlog",
+      title: "Keep track of your backlog (in progress)",
       results: [
-        { title: "Lorem Ipsum" },
-        { title: "Lorem Ipsum" },
-        { title: "Lorem Ipsum" },
+        { title: "Curated game library" },
+        { title: "Personalized play metrics" },
+        { title: "Customizable game queue" },
       ],
       link: "",
       image: aiStartupLandingPage,
