@@ -14,3 +14,10 @@ Welcome to my personal portfolio! This website is designed to showcase my work a
 - **Tooling:** ESLint for linting, PostCSS and Autoprefixer for CSS optimization
 
 All dependencies and configurations are managed through a standard `package-lock.json` file to maintain consistency across environments.
+
+## 📩 Contact
+
+Feel free to reach out if you’re interested in working together or have any questions:
+
+-   **Email:** armando.salcedo95@gmail.com
+-   **LinkedIn:** [Armando Salcedo](https://www.linkedin.com/in/armando-salcedo/)
