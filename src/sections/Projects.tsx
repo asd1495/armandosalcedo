@@ -50,7 +50,7 @@ export const ProjectsSection = () => {
                   <a href={project.link}>
                     <button className="bg-white text-gray-950 h-12 w-full md:w-auto px-6 rounded-xl font-semibold inline-flex items-center justify-center gap-2 mt-8">
                     <span>
-                      View Live Site
+                      Check it out!
                     </span>
                       <ArrowUpRight className="size-4" />
                     </button>

@@ -13,7 +13,7 @@ export const portfolioProjects = [
         { title: "Real-time inventory monitoring" },
         { title: "Intuitive UI" },
       ],
-      link: "",
+      link: "https://github.com/asd1495/text2speech/tree/main",
       image: darkSaasLandingPage,
     },
     {
