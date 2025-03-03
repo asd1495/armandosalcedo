@@ -1,6 +1,7 @@
 import darkSaasLandingPage from "@/assets/images/dark-saas-landing-page.png";
 import lightSaasLandingPage from "@/assets/images/light-saas-landing-page.png";
 import aiStartupLandingPage from "@/assets/images/ai-startup-landing-page.png";
+import t2s from "@/assets/images/t2s.png";
 
 export const portfolioProjects = [
     {
@@ -16,16 +17,16 @@ export const portfolioProjects = [
       image: darkSaasLandingPage,
     },
     {
-      company: "The amiiboDB",
+      company: "text2speech",
       year: "2025",
-      title: "Everyone is here! (in progress)",
+      title: "Convert your texts to speech",
       results: [
-        { title: "Comprehensive amiibo collection" },
-        { title: "Accurate game compatibility" },
-        { title: "Community-driven insights" },
+        { title: "Java based and Open source" },
+        { title: "Simple but effective GUI" },
+        { title: "Made just for fun!" },
       ],
       link: "",
-      image: lightSaasLandingPage,
+      image: t2s,
     },
     {
       company: "Backlog App",
