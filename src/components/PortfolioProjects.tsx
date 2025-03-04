@@ -13,7 +13,7 @@ export const portfolioProjects = [
         { title: "Real-time inventory monitoring" },
         { title: "Intuitive UI" },
       ],
-      link: "https://github.com/asd1495/text2speech/tree/main",
+      link: "",
       image: darkSaasLandingPage,
     },
     {
@@ -25,7 +25,7 @@ export const portfolioProjects = [
         { title: "Simple but effective GUI" },
         { title: "Made just for fun!" },
       ],
-      link: "",
+      link: "https://github.com/asd1495/text2speech/tree/main",
       image: t2s,
     },
     {
